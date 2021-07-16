@@ -1,6 +1,6 @@
 ## Demo
 <p align="center">
-<img src="https://bemo.ifisol.com/Laravel.gif" width="500" height="400" />
+<img src="https://github.com/isaqib23/bemo/raw/main/public/demo.gif" width="800" height="400" />
 </p>
 
 ## Installation:
